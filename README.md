@@ -1,6 +1,6 @@
 # AdaFilter-Sidak: simulations and GSE30495 real-data analysis
 
-This repository uses **one R script** to reproduce the simulations and the real-data method comparisons from the manuscript *A uniformly improved adaptive filtering procedure for family-wise error rate control*.
+This repository uses **one R script** to reproduce the simulations and the real-data method comparisons from the manuscript *Uniformly Improved Adaptive Filtering Procedures for Replicability Testing with FWER Control.*.
 
 ## File
 
